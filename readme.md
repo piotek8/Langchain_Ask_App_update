@@ -12,7 +12,7 @@ To install the repository, please clone this repository and install the requirem
 pip install -r requirements.txt
 ```
 
-You will also need to change your OpenAI API key to the `.env` file in `source_code` folder.
+You will also need to paste your OpenAI API key and create the `.env` file in `source_code` folder.
 
 ```
 OPENAI_API_KEY = "your_api_key_from_openai"
