@@ -48,7 +48,7 @@ Callbacks: Pozwalają na śledzenie, co aplikacja robi i rejestrowanie kroków.
 Przykład: Aplikacja do przetwarzania obrazów, która rejestruje każdy krok w procesie analizy obrazu, od jego wczytania do wykrycia różnych elementów na obrazie.
 
 ### Kilka dodatkowych funkcjonalności, które można wprowadzić w mojej aplikacji :
-[Langchain_Ask_App](https://github.com/th33ngineers/Langchain_Ask_App.git)
+[Langchain_Ask_App](https://github.com/piotek8/Langchain_Ask_App_update.git)
 
   - dockerfile: plik tekstowy, w którym są podane instrukcje ( takie jak: FROM, RUN, COPY, CMD ), żeby zbudować obraz kontenera
   - dockercompose: narzędzie, w którym wykorzystujemy zbudowane obrazy i tworzymy "zapakowany produkt", dzięki czemu inny użytkownik na swoim urządzeniu może pobrać i zbudować aplikację w łatwy sposób.Przejść do scieżki docker-compose.yml i wewnątrz niej wykonać: docker-compose build. 
